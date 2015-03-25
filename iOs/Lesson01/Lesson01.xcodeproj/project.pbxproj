@@ -14,6 +14,8 @@
 		A1CA4CDB1AC2528E007A5085 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1CA4CDA1AC2528E007A5085 /* Images.xcassets */; };
 		A1CA4CDE1AC2528E007A5085 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1CA4CDC1AC2528E007A5085 /* LaunchScreen.xib */; };
 		A1CA4CEA1AC2528E007A5085 /* Lesson01Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1CA4CE91AC2528E007A5085 /* Lesson01Tests.swift */; };
+		A1CA4CF71AC25B0B007A5085 /* cookie-monster-iphone-6-wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1CA4CF61AC25B0B007A5085 /* cookie-monster-iphone-6-wallpaper.jpg */; };
+		A1CA4CF91AC25E0B007A5085 /* iphone-6-wallpapers-hd-254mzct0-1080x1920.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1CA4CF81AC25E0B007A5085 /* iphone-6-wallpapers-hd-254mzct0-1080x1920.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		A1CA4CE31AC2528E007A5085 /* Lesson01Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lesson01Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1CA4CE81AC2528E007A5085 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1CA4CE91AC2528E007A5085 /* Lesson01Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson01Tests.swift; sourceTree = "<group>"; };
+		A1CA4CF61AC25B0B007A5085 /* cookie-monster-iphone-6-wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cookie-monster-iphone-6-wallpaper.jpg"; sourceTree = "<group>"; };
+		A1CA4CF81AC25E0B007A5085 /* iphone-6-wallpapers-hd-254mzct0-1080x1920.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "iphone-6-wallpapers-hd-254mzct0-1080x1920.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,7 @@
 		A1CA4CCD1AC2528D007A5085 /* Lesson01 */ = {
 			isa = PBXGroup;
 			children = (
+				A1CA4CF31AC25ADE007A5085 /* mimes */,
 				A1CA4CD01AC2528D007A5085 /* AppDelegate.swift */,
 				A1CA4CD51AC2528D007A5085 /* ViewController.swift */,
 				A1CA4CD71AC2528E007A5085 /* Main.storyboard */,
@@ -113,6 +118,31 @@
 				A1CA4CE81AC2528E007A5085 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A1CA4CF31AC25ADE007A5085 /* mimes */ = {
+			isa = PBXGroup;
+			children = (
+				A1CA4CF41AC25AEB007A5085 /* images */,
+			);
+			name = mimes;
+			sourceTree = "<group>";
+		};
+		A1CA4CF41AC25AEB007A5085 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				A1CA4CF51AC25AF3007A5085 /* backgrounds */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		A1CA4CF51AC25AF3007A5085 /* backgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				A1CA4CF81AC25E0B007A5085 /* iphone-6-wallpapers-hd-254mzct0-1080x1920.jpg */,
+				A1CA4CF61AC25B0B007A5085 /* cookie-monster-iphone-6-wallpaper.jpg */,
+			);
+			name = backgrounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,8 +226,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1CA4CD91AC2528E007A5085 /* Main.storyboard in Resources */,
+				A1CA4CF91AC25E0B007A5085 /* iphone-6-wallpapers-hd-254mzct0-1080x1920.jpg in Resources */,
 				A1CA4CDE1AC2528E007A5085 /* LaunchScreen.xib in Resources */,
 				A1CA4CDB1AC2528E007A5085 /* Images.xcassets in Resources */,
+				A1CA4CF71AC25B0B007A5085 /* cookie-monster-iphone-6-wallpaper.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
