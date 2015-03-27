@@ -9,11 +9,14 @@
 /* Begin PBXBuildFile section */
 		A1D146C41AC4F85D0085F1A4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D146C31AC4F85D0085F1A4 /* AppDelegate.swift */; };
 		A1D146C71AC4F85D0085F1A4 /* Lesson02.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A1D146C51AC4F85D0085F1A4 /* Lesson02.xcdatamodeld */; };
-		A1D146C91AC4F85D0085F1A4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D146C81AC4F85D0085F1A4 /* ViewController.swift */; };
+		A1D146C91AC4F85D0085F1A4 /* vcDecisionLaunch.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D146C81AC4F85D0085F1A4 /* vcDecisionLaunch.swift */; };
 		A1D146CC1AC4F85D0085F1A4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1D146CA1AC4F85D0085F1A4 /* Main.storyboard */; };
 		A1D146CE1AC4F85D0085F1A4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1D146CD1AC4F85D0085F1A4 /* Images.xcassets */; };
 		A1D146D11AC4F85D0085F1A4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A1D146CF1AC4F85D0085F1A4 /* LaunchScreen.xib */; };
 		A1D146DD1AC4F85D0085F1A4 /* Lesson02Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D146DC1AC4F85D0085F1A4 /* Lesson02Tests.swift */; };
+		A1D146EA1AC4FD450085F1A4 /* laracroft_dusty.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1D146E91AC4FD440085F1A4 /* laracroft_dusty.jpg */; };
+		A1D146EC1AC4FE340085F1A4 /* Lara-Croft-in-Tomb-Raider-9_640x1136_iPhone_5_wallpaper.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1D146EB1AC4FE340085F1A4 /* Lara-Croft-in-Tomb-Raider-9_640x1136_iPhone_5_wallpaper.jpg */; };
+		A1D146EE1AC4FE3B0085F1A4 /* P-368534-g85vX1LhAw-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A1D146ED1AC4FE3B0085F1A4 /* P-368534-g85vX1LhAw-1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,13 +34,16 @@
 		A1D146C21AC4F85D0085F1A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1D146C31AC4F85D0085F1A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A1D146C61AC4F85D0085F1A4 /* Lesson02.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Lesson02.xcdatamodel; sourceTree = "<group>"; };
-		A1D146C81AC4F85D0085F1A4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A1D146C81AC4F85D0085F1A4 /* vcDecisionLaunch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vcDecisionLaunch.swift; sourceTree = "<group>"; };
 		A1D146CB1AC4F85D0085F1A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A1D146CD1AC4F85D0085F1A4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		A1D146D01AC4F85D0085F1A4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		A1D146D61AC4F85D0085F1A4 /* Lesson02Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lesson02Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1D146DB1AC4F85D0085F1A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1D146DC1AC4F85D0085F1A4 /* Lesson02Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson02Tests.swift; sourceTree = "<group>"; };
+		A1D146E91AC4FD440085F1A4 /* laracroft_dusty.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = laracroft_dusty.jpg; sourceTree = "<group>"; };
+		A1D146EB1AC4FE340085F1A4 /* Lara-Croft-in-Tomb-Raider-9_640x1136_iPhone_5_wallpaper.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lara-Croft-in-Tomb-Raider-9_640x1136_iPhone_5_wallpaper.jpg"; sourceTree = "<group>"; };
+		A1D146ED1AC4FE3B0085F1A4 /* P-368534-g85vX1LhAw-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "P-368534-g85vX1LhAw-1.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,8 +85,9 @@
 		A1D146C01AC4F85C0085F1A4 /* Lesson02 */ = {
 			isa = PBXGroup;
 			children = (
+				A1D146E61AC4FD240085F1A4 /* mimes */,
 				A1D146C31AC4F85D0085F1A4 /* AppDelegate.swift */,
-				A1D146C81AC4F85D0085F1A4 /* ViewController.swift */,
+				A1D146C81AC4F85D0085F1A4 /* vcDecisionLaunch.swift */,
 				A1D146CA1AC4F85D0085F1A4 /* Main.storyboard */,
 				A1D146CD1AC4F85D0085F1A4 /* Images.xcassets */,
 				A1D146CF1AC4F85D0085F1A4 /* LaunchScreen.xib */,
@@ -113,6 +120,32 @@
 				A1D146DB1AC4F85D0085F1A4 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A1D146E61AC4FD240085F1A4 /* mimes */ = {
+			isa = PBXGroup;
+			children = (
+				A1D146E71AC4FD2B0085F1A4 /* images */,
+			);
+			name = mimes;
+			sourceTree = "<group>";
+		};
+		A1D146E71AC4FD2B0085F1A4 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				A1D146E81AC4FD2F0085F1A4 /* backgrounds */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		A1D146E81AC4FD2F0085F1A4 /* backgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				A1D146ED1AC4FE3B0085F1A4 /* P-368534-g85vX1LhAw-1.jpg */,
+				A1D146EB1AC4FE340085F1A4 /* Lara-Croft-in-Tomb-Raider-9_640x1136_iPhone_5_wallpaper.jpg */,
+				A1D146E91AC4FD440085F1A4 /* laracroft_dusty.jpg */,
+			);
+			name = backgrounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -197,7 +230,10 @@
 			files = (
 				A1D146CC1AC4F85D0085F1A4 /* Main.storyboard in Resources */,
 				A1D146D11AC4F85D0085F1A4 /* LaunchScreen.xib in Resources */,
+				A1D146EA1AC4FD450085F1A4 /* laracroft_dusty.jpg in Resources */,
 				A1D146CE1AC4F85D0085F1A4 /* Images.xcassets in Resources */,
+				A1D146EE1AC4FE3B0085F1A4 /* P-368534-g85vX1LhAw-1.jpg in Resources */,
+				A1D146EC1AC4FE340085F1A4 /* Lara-Croft-in-Tomb-Raider-9_640x1136_iPhone_5_wallpaper.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -215,7 +251,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1D146C91AC4F85D0085F1A4 /* ViewController.swift in Sources */,
+				A1D146C91AC4F85D0085F1A4 /* vcDecisionLaunch.swift in Sources */,
 				A1D146C41AC4F85D0085F1A4 /* AppDelegate.swift in Sources */,
 				A1D146C71AC4F85D0085F1A4 /* Lesson02.xcdatamodeld in Sources */,
 			);
