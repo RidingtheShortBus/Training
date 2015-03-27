@@ -13,6 +13,7 @@
                         <viewControllerLayoutGuide type="bottom" id="E9v-sq-Mhy"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="5R0-eu-z1K">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="cookie-monster-iphone-6-wallpaper.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="O08-4F-97s">
@@ -76,6 +77,7 @@
                         <viewControllerLayoutGuide type="bottom" id="kYZ-Xv-gXa"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="17g-aj-kaK">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iphone-6-wallpapers-hd-254mzct0-1080x1920.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="zWh-JG-lzw">
